@@ -1,0 +1,171 @@
+INFORMASI PLATFORM atau Website
+SMAKDEL STORE adalah marketplace produk digital terintegrasi yang dirancang untuk memfasilitasi jual beli berbagai aset digital berkualitas tinggi. Platform ini berfungsi sebagai jembatan antara kreator konten digital dan pengguna yang membutuhkan solusi instan, mulai dari kebutuhan edukasi hingga aset pengembangan bisnis. Dengan fokus utama pada kemudahan akses dan kecepatan transaksi, platform ini memastikan setiap pengguna dapat memperoleh produk digital yang dibutuhkan secara efisien melalui sistem otomatis yang andal.
+
+Target utama platform mencakup profesional kreatif, pelajar, pengembang perangkat lunak, serta pelaku UMKM yang ingin melakukan transformasi digital. SMAKDEL STORE menyediakan infrastruktur yang stabil untuk mendistribusikan produk digital dalam berbagai format, memastikan bahwa setiap aset yang tersedia telah melalui proses kurasi untuk menjaga standar kualitas bagi seluruh pengguna.
+
+VISI
+Menjadi ekosistem marketplace produk digital terdepan yang mendorong pertumbuhan ekonomi kreatif melalui inovasi teknologi yang inklusif, menyediakan akses tanpa batas bagi masyarakat Indonesia untuk mendapatkan aset digital berkualitas guna meningkatkan kapabilitas dan produktivitas di era transformasi informasi global.
+
+MISI
+Menyediakan berbagai pilihan produk digital yang relevan dan memiliki standar kualitas tinggi untuk memenuhi kebutuhan pasar yang dinamis.
+
+Memberikan dukungan berkelanjutan bagi para kreator digital agar dapat mendistribusikan karya mereka secara luas melalui platform yang tepercaya.
+
+Memastikan kemudahan akses bagi seluruh lapisan pengguna melalui antarmuka yang intuitif dan proses navigasi yang sederhana.
+
+Menjamin keamanan dan kenyamanan transaksi dengan mengimplementasikan sistem enkripsi dan pemrosesan data yang mutakhir.
+
+FITUR PAYMENT GATEWAY
+Platform ini mengintegrasikan sistem payment gateway sebagai mesin utama dalam pemrosesan seluruh transaksi finansial secara digital. Sistem ini bekerja untuk memfasilitasi pertukaran data pembayaran antara pengguna dan institusi keuangan secara aman dan otomatis.
+
+Fungsi payment gateway: Menyediakan berbagai opsi metode pembayaran digital dan melakukan otentikasi transaksi secara real-time untuk memastikan validitas pembayaran.
+
+Proses verifikasi pembayaran otomatis: Sistem melakukan pengecekan status pembayaran secara instan tanpa memerlukan verifikasi manual dari pengguna, sehingga akses produk dapat diberikan segera setelah dana terkonfirmasi.
+
+Keamanan transaksi: Seluruh data pembayaran dilindungi dengan protokol keamanan standar industri untuk mencegah penyalahgunaan informasi sensitif.
+
+Status pembayaran yang dihasilkan sistem: Memberikan notifikasi langsung mengenai kondisi transaksi, apakah sedang diproses, berhasil, atau memerlukan tindakan lebih lanjut.
+
+PRODUK DIGITAL
+SMAKDEL STORE menyediakan beragam kategori produk digital yang dirancang untuk mendukung berbagai kebutuhan pengguna:
+
+Ebook: Buku elektronik dalam format dokumen digital yang berisi informasi mendalam tentang topik tertentu.
+
+Video Course: Materi pembelajaran berbasis video yang disusun secara sistematis untuk penguasaan keahlian spesifik.
+
+AI Prompt: Rangkaian instruksi terstruktur untuk diinput ke dalam model kecerdasan buatan guna menghasilkan output yang optimal.
+
+Template Digital: Dokumen atau desain siap pakai yang dapat disesuaikan kembali untuk mempercepat alur kerja.
+
+Source Code: Kumpulan kode pemrograman yang siap digunakan untuk membangun atau memodifikasi aplikasi dan situs web.
+
+Desain Digital: Aset visual berkualitas tinggi mulai dari ikon, ilustrasi, hingga elemen grafis untuk kebutuhan kreatif.
+
+DETAIL PRODUK
+Berikut adalah detail mengenai produk digital yang tersedia di platform:
+
+Ebook: Literatur digital edukatif dan informatif dalam berbagai topik profesional. Kisaran harga: Rp25.000 hingga Rp150.000. Model akses: Download langsung setelah pembelian.
+
+Video Course: Seri pembelajaran visual intensif dengan modul yang terorganisir. Kisaran harga: Rp99.000 hingga Rp750.000. Model akses: Akses online melalui dashboard pengguna.
+
+AI Prompt: Koleksi perintah cerdas untuk memaksimalkan efisiensi penggunaan teknologi kecerdasan buatan. Kisaran harga: Rp15.000 hingga Rp95.000. Model akses: Lisensi penggunaan pribadi dan teks instruksi.
+
+Template Digital: File mentah siap edit untuk presentasi, manajemen keuangan, atau media sosial. Kisaran harga: Rp35.000 hingga Rp200.000. Model akses: Download file master.
+
+Source Code: File pemrograman mentah untuk pengembangan perangkat lunak dan otomasi. Kisaran harga: Rp150.000 hingga Rp2.500.000. Model akses: Download repositori atau file terkompresi.
+
+Desain Digital: Paket aset grafis seperti logo, banner, dan elemen UI/UX. Kisaran harga: Rp45.000 hingga Rp500.000. Model akses: Download dengan lisensi penggunaan kreatif.
+
+ALUR PENGGUNA & TRANSAKSI
+Proses transaksi di SMAKDEL STORE disusun secara bertahap untuk memastikan kenyamanan pengguna:
+
+Registrasi akun: Pengguna mengisi formulir pendaftaran dengan informasi dasar yang valid untuk membuat identitas unik di platform.
+
+Login: Mengakses akun menggunakan kredensial yang telah didaftarkan untuk masuk ke lingkungan personal platform.
+
+Pemilihan produk: Menelusuri katalog produk digital dan memilih aset yang sesuai dengan kebutuhan.
+
+Checkout: Memasukkan produk ke dalam keranjang dan meninjau kembali rincian pesanan serta total biaya.
+
+Pembayaran melalui payment gateway: Memilih metode pembayaran tersedia dan melakukan transfer dana sesuai instruksi sistem.
+
+Verifikasi otomatis: Payment gateway mengirimkan sinyal ke sistem platform setelah dana diterima, memperbarui status pesanan secara instan.
+
+Produk dapat diakses: Pengguna mendapatkan otorisasi penuh untuk mengunduh atau menggunakan produk melalui halaman dashboard.
+
+PEMBAYARAN
+Seluruh transaksi dilakukan menggunakan mata uang Rupiah melalui sistem payment gateway yang mendukung berbagai kanal pembayaran elektronik. Berikut adalah status pembayaran yang dapat muncul:
+
+Pending: Transaksi telah dibuat namun sistem masih menunggu pengiriman dana dari pihak pembeli.
+
+Berhasil: Dana telah diterima dan dikonfirmasi oleh sistem, akses produk segera diaktifkan.
+
+Gagal: Transaksi tidak dapat dilanjutkan karena kesalahan teknis, penolakan oleh institusi keuangan, atau data yang tidak valid.
+
+Kedaluwarsa: Batas waktu pembayaran telah habis sehingga transaksi dibatalkan secara otomatis oleh sistem.
+
+AKSES & DISTRIBUSI PRODUK DIGITAL
+Setelah transaksi dinyatakan berhasil, distribusi produk dilakukan secara digital melalui mekanisme berikut:
+
+Halaman dashboard: Area khusus bagi setiap pengguna terdaftar untuk mengelola seluruh aset digital yang telah dimiliki.
+
+Riwayat pembelian: Catatan detail mengenai transaksi masa lalu, termasuk nota pembelian dan tanggal transaksi.
+
+Akses ulang: Kemampuan pengguna untuk mengunduh kembali file produk atau mengakses materi online selama produk masih tersedia di platform.
+
+Batasan penggunaan: Produk digital diberikan berdasarkan hak penggunaan individu dan tidak diperkenankan untuk didistribusikan ulang tanpa izin khusus.
+
+Ketentuan lisensi dasar: Pengguna mendapatkan lisensi untuk menggunakan produk sesuai dengan jenis lisensi yang tertera pada detail produk saat pembelian.
+
+KEBIJAKAN & KETENTUAN
+Kebijakan platform dirancang untuk melindungi kepentingan penyedia produk dan pengguna:
+
+Refund: Pengajuan pengembalian dana hanya dipertimbangkan jika terjadi kendala teknis permanen pada akses produk yang terbukti berasal dari kesalahan sistem platform.
+
+Hak cipta: Seluruh produk digital tetap merupakan milik intelektual dari kreator aslinya, pengguna hanya membeli hak penggunaan.
+
+Lisensi penggunaan produk digital: Pengguna wajib mematuhi batasan lisensi, baik itu untuk penggunaan pribadi maupun penggunaan komersial terbatas.
+
+Tanggung jawab pengguna: Pengguna bertanggung jawab penuh atas keamanan akun pribadi dan penggunaan produk digital sesuai dengan norma serta hukum yang berlaku.
+
+SOP (STANDARD OPERATING PROCEDURE)
+SOP Registrasi Pengguna
+Pengguna mengunjungi halaman pendaftaran pada situs web resmi.
+
+Mengisi nama lengkap, alamat email aktif, dan kata sandi yang kuat.
+
+Melakukan konfirmasi alamat email melalui tautan verifikasi yang dikirimkan sistem.
+
+Akun dinyatakan aktif dan pengguna dapat melengkapi profil tambahan di dashboard.
+
+SOP Proses Pembelian
+Produk dipilih dan ditambahkan ke halaman checkout.
+
+Pengguna memilih metode pembayaran digital melalui sistem payment gateway.
+
+Sistem membuat kode bayar unik atau invoice dengan batas waktu tertentu.
+
+Setelah pembayaran dilakukan, payment gateway memvalidasi transaksi dalam hitungan detik.
+
+Sistem memperbarui status pesanan menjadi Berhasil.
+
+SOP Penanganan Pembayaran Gagal
+Jika transaksi gagal atau kedaluwarsa, sistem secara otomatis mengirimkan notifikasi kepada pengguna.
+
+Pengguna diarahkan untuk melakukan pemesanan ulang jika masih menginginkan produk tersebut.
+
+Sistem membersihkan data transaksi yang tidak selesai secara berkala untuk menjaga efisiensi database.
+
+SOP Permintaan Refund
+Pengguna mengirimkan laporan kendala melalui saluran bantuan resmi dalam waktu maksimal 1x24 jam setelah pembelian.
+
+Tim teknis melakukan audit terhadap status transaksi dan kendala akses produk.
+
+Jika klaim valid sesuai kebijakan, proses refund dilakukan melalui sistem payment gateway dalam jangka waktu yang ditentukan.
+
+Akses terhadap produk digital terkait dicabut secara otomatis setelah refund diproses.
+
+SOP Akses Produk Digital
+Sinyal keberhasilan pembayaran diterima dari payment gateway.
+
+Sistem membuka kunci otorisasi pada database untuk ID produk dan ID pengguna terkait.
+
+Link unduhan atau akses materi muncul secara otomatis di dashboard pengguna.
+
+Email konfirmasi pengiriman produk dikirimkan sebagai bukti distribusi aset.
+
+PERTANYAAN YANG SERING DIAJUKAN (FAQ)
+Apa fungsi payment gateway dalam transaksi di platform ini?
+Payment gateway berfungsi sebagai jembatan pembayaran otomatis yang memastikan dana Anda terkirim secara aman dan pesanan Anda terkonfirmasi secara instan tanpa perlu verifikasi manual.
+
+Mengapa harga produk digital berbeda-beda?
+Harga disesuaikan berdasarkan kompleksitas, nilai manfaat, dan kualitas dari masing-masing kategori produk untuk memastikan pengguna mendapatkan nilai terbaik dari investasi digital mereka.
+
+Bagaimana jika status pembayaran saya masih pending setelah transfer?
+Status pending berarti sistem masih menunggu konfirmasi dari jaringan bank atau penyedia pembayaran Anda. Mohon tunggu beberapa saat atau pastikan Anda telah mengikuti instruksi pembayaran dengan tepat.
+
+Di mana saya bisa mengakses produk setelah membeli?
+Seluruh produk yang telah dibeli dapat diakses secara permanen melalui halaman dashboard pribadi Anda di bagian riwayat pembelian atau daftar produk saya.
+
+Apakah saya bisa mengajukan refund jika salah membeli produk?
+Sesuai kebijakan platform, refund hanya dapat diproses apabila terdapat kendala teknis pada sistem yang menyebabkan produk tidak dapat diakses sama sekali setelah pembayaran berhasil.
